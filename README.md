@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amit Kohale</h1>
-<h3 align="center">A passionate software development from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkohale2001&label=Profile%20views&color=0e75b6&style=flat" alt="amitkohale2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amitkohale2" target="blank"><img src="https://img.shields.io/twitter/follow/amitkohale2?logo=twitter&style=for-the-badge" alt="amitkohale2" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Java,HTML5,CSS3,React.js**
 
